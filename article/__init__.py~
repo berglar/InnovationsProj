@@ -1,0 +1,5 @@
+class Article(models.Model):
+    name = models.CharField(max_length=30)
+
+class ArticleChunks(models.Model):
+    
