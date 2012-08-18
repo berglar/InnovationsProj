@@ -95,6 +95,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 CMS_TEMPLATES = (
     ('template_1.html', 'Template 1'),
     ('template_2.html', 'Template 2'),
+    ('reading.html', 'Reading Template'),
 )
 
 ROOT_URLCONF = 'mycms.urls'
