@@ -1,3 +1,0 @@
-{% for article in article.article_set.all %}
-    <hello hellow yessssssss/>
-{% endfor %}
